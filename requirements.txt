@@ -1,0 +1,12 @@
+# Colab recommendation: install TensorFlow + perch-hoplite first in a fresh cell,
+# then install this file; restart runtime if TensorFlow emits a restart warning.
+tensorflow==2.20.0
+perch-hoplite==1.0.2
+scikit-maad==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.3
+soundfile==0.13.1
+pyarrow==20.0.0
+tqdm==4.67.1
+pytest==8.3.5
